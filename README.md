@@ -1,12 +1,11 @@
 # ML-242-SI-6NA
 NOTBOOKS
 
-Nome Completo: 
-EDUARDA MARTINS
+Nome Completo: EDUARDA MARTINS DO NASCIMENTO
 
-MATRICULA:
-01505281
+MATRICULA: 01525081
 
 Área de Interesse:
-FRONT-END 
+
+Me identifico muito com a área de design e front-end, estou a disposição de qualquer oportunidade. 
 
