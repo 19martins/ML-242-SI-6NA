@@ -1,2 +1,12 @@
 # ML-242-SI-6NA
 NOTBOOKS
+
+Nome Completo: 
+EDUARDA MARTINS
+
+MATRICULA:
+01505281
+
+Área de Interesse:
+FRONT-END 
+
